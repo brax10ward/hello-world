@@ -1,2 +1,2 @@
 # hello-world
-GitHub practice 
+I am an intern at VSLR. 
